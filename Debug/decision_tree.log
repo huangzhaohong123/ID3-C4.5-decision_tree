@@ -1,0 +1,4 @@
+﻿  decision_tree.cpp
+D:\desktop\DataStruct_Design\decision_tree\decision_tree.cpp(33,11): warning C4101: “p”: 未引用的局部变量
+D:\desktop\DataStruct_Design\decision_tree\decision_tree.cpp(34,21): warning C4101: “q”: 未引用的局部变量
+  decision_tree.vcxproj -> D:\desktop\DataStruct_Design\decision_tree\Debug\decision_tree.exe
